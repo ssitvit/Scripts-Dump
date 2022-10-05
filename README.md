@@ -51,7 +51,7 @@ ___
 * Now click on **New pull request**   <br/>
 <img src="https://i.ibb.co/YTYXSnk/new-Pull-requests-in-github.png" alt="new Pull requests in github" border="0"></a>  <br/>
 * Next click **create new pull requestion**  <br/>
-<img src="https://i.ibb.co/DVjgKQG/Screenshot-2020-10-01-at-11-06-03-AM.png" alt="Screenshot-2020-10-01-at-11-06-03-AM" border="0"></a>  <br/>
+<img width="398" alt="Screenshot 2022-10-05 at 8 09 55 PM" src="https://user-images.githubusercontent.com/76738417/194088678-6a577853-ed52-4118-9504-492493223b93.png"><br/>
   <br/>
 ## Repeat Same step 4 time and check your hacktober profile  <br/>
 At last after successfully submitting a pull request you can view your work live at <a href="https://games.ieeessitvit.tech/">SSIT LIVE </a>
