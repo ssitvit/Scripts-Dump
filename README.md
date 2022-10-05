@@ -1,15 +1,9 @@
-# Scripts-Dump
-
 <p align="center">
     <img src="https://technologyandsociety.org/wp-content/uploads/Logo-Color-1.jpg" />
     <h2 align="center">Scripts-Dump</h2>
-    <h4 align="center">INFO</h4>
+    <h4 align="center">A one stop place for dumping most common and helpful scripts written in different languages.</h4>
 </p>
 
-<p align="center">
-	<h1 align="center"> WHAT IS Scripts-Dump?</h1>
-	<h2 align="center">A one stop place for dumping most common and helpful scripts written in different languages.</h2>
-	
 ### Contributors
 
 - [ Nanduri Jayant Vishnu ](https://github.com/nandurijv)
