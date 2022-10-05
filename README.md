@@ -36,7 +36,7 @@ if (youLiked) {
 ___
 # ⚡⚡ Steps for Creating First Pull request ⚡⚡ <br/>
 ---
-* [Go to this Repo](https://github.com/DPrinceKumar/HacktoberFest2020.git) <br/>
+* [Go to this Repo](https://github.com/IEEE-SSIT-VIT/Scripts-Dump) <br/>
 * Click on Fork in top Right Corner <br/>
 ![Go to hacktoberfest](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png) <br/>
 * Now that Repository will be added in **your GitGub Repository** <br/>
