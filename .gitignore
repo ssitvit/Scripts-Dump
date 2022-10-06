@@ -1,0 +1,20 @@
+#  byte compiled files
+* .out
+* .o
+* .obj
+* .exe
+* __pycache__
+* .class
+
+# file extensions
+* .ipynb
+
+# environment and packages
+* venv
+* node_modules
+
+# VSCode Settings
+* .vscode/
+
+# MacOS
+* .DS_Store
