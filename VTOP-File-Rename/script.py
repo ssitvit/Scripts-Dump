@@ -3,9 +3,9 @@ import re
 import shutil
 
 # Input the destination
-destination = '/Users/dhairyaostwal/Downloads/'
+destination = '/Users/dhairyaostwal/Downloads/' # Here you can change the Destination of the VTOP Download Folder
 
-# In Windows = D:\\aayushi\\Documents\\someFolder
+
 directoryList = os.chdir(destination)
 print(os.getcwd())
 
